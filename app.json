@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "covid",
-    "slug": "covid",
+    "name": "Covid-19 Stats App - Itamar Fayler",
+    "slug": "covid-19-stats-app-itamar-fayler",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -27,6 +27,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": ""
   }
 }
